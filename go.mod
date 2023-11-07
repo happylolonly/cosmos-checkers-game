@@ -9,6 +9,7 @@ require (
 	cosmossdk.io/depinject v1.0.0-alpha.4
 	github.com/cosmos/cosmos-proto v1.0.0-beta.3
 	github.com/cosmos/cosmos-sdk v0.47.5
+	github.com/cosmos/gogoproto v1.4.11
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	google.golang.org/protobuf v1.31.0
 )
@@ -37,7 +38,6 @@ require (
 	github.com/cosmos/btcutil v1.0.5 // indirect
 	github.com/cosmos/cosmos-db v1.0.0 // indirect
 	github.com/cosmos/go-bip39 v1.0.0 // indirect
-	github.com/cosmos/gogoproto v1.4.11 // indirect
 	github.com/cosmos/iavl v0.20.0 // indirect
 	github.com/cosmos/ledger-cosmos-go v0.12.1 // indirect
 	github.com/danieljoos/wincred v1.1.2 // indirect
